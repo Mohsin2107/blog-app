@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/shepherdblogs",
+        "prod_uri":"mysql://root:@localhost/shepherdblogs",
+        "fb_url":"https://facebook.com",
+        "tw_url":"https://twitter.com",
+        "gh_url":"https://github.com",
+        "gmail-user":"",
+        "gmail-password":"",
+        "no_of_posts":2,
+        "blog_name":"Shepherd Blogs",
+        "login_img":"bootstrap-solid.svg",
+        "admin_user":"Mohsin",
+        "admin_password":"12345",
+        "file_upload_folder":"G:\\Programs\\Python Flask\\BlogApp\\static\\assets"
+    }
+}
